@@ -19,5 +19,8 @@
 .select-type, .select-priority {
     width: 200px;
 }
+ul {
+  list-style-type: decimal;
+}
 
 
